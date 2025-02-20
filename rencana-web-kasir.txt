@@ -1,0 +1,13 @@
+RENCANA WEB KASIR
+- membuat menu utama
+  * visi: Menjadi koperasi yang unggul, mandiri, dan bermanfaat bagi anggotanya serta masyarakat, dengan mengutamakan kesejahteraan bersama melalui pengelolaan sumber daya yang efisien dan 
+    berkelanjutan.
+    misi: Meningkatkan kesejahteraan anggota melalui pelayanan yang berkual
+          Memulai usaha koperasi dengan prinsip ekonomi kerakyatan dan berbasis pada pa
+          Menciptakan lapangan kerja dan peluang usaha yang adil dan merata bagi seluruh anggota.
+  * nama koperasi: koperasi sejahtera
+    telepon: 089765436787
+  * alamat: JL.Ahmad Yani No 27, Jakarta Utara
+- membuat menu login
+- membuat menu sign-up
+- membuat daftar harga barang
